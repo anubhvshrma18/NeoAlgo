@@ -9,8 +9,6 @@ The above steps are repeated until all the elements in the list are in their
 appropriate position.i.e. list is in sorted order.*/
 
 
-
-
 #include <iostream>
 using namespace std;
 
